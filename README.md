@@ -8,11 +8,11 @@ Plateforme d'aide permettant aux usagers d'effectuer leurs démarches administra
 📱 Responsive Design : Access on any device with adaptive design.
 
 # 👩‍💻 Web Language
-🌐 HTML: is a standard markup language for creating web pages and describes his structure.
+🌐 HTML : est un langage de balisage standard pour la création de pages web et décrit sa structure.
 
-🖌️ CSS: is a language we use to the style and HTML document and describes how HTML elements should be displayed.
+🖌️ CSS : est un langage que nous utilisons pour styliser les documents HTML et décrit comment les éléments HTML doivent être affichés.
 
-🧑‍💻 Javascript: is a scripting language that enables you to create dynamically updating content.
+🧑‍💻 Javascript : est un langage de script qui vous permet de créer du contenu mis à jour dynamiquement.
 
 Next Js : framework React qui fournit les composants nécessaires à la création d'applications web.
 

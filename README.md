@@ -16,7 +16,6 @@ Plateforme d'aide permettant aux usagers d'effectuer leurs démarches administra
 ## 🛠️ Technologies utilisées
 
 - **Next.js 16.1.6** : Framework React pour applications web modernes
-- **React 18.2.0** : Bibliothèque JavaScript pour interfaces utilisateurs
 - **HTML5** : Langage de balisage pour la structure des pages
 - **CSS3** : Stylisation et mise en page responsive
 - **JavaScript ES6+** : Logique et interactivité de l'application

@@ -19,6 +19,7 @@ Plateforme d'aide permettant aux usagers d'effectuer leurs démarches administra
 - **HTML5** : Langage de balisage pour la structure des pages
 - **CSS3** : Stylisation et mise en page responsive
 - **JavaScript ES6+** : Logique et interactivité de l'application
+- **Tailwind CSS 4.1.18** : Fourniture de classes utilitaires réutilisables qui rendent le style rapide et efficace
 
 ## 📖 Sources officielles
 
